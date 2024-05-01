@@ -7,7 +7,7 @@ title = tic_tac_toe
 package.name = tic_tac_toe
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.wiseplat
+package.domain = org.test
 
 # (str) Source code where the main.py live
 source.dir = .
